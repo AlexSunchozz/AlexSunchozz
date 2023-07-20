@@ -15,6 +15,8 @@ I appreciate cooperation and teamwork, and am always ready to contribute and lea
 ## Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=REACT&logoColor=ReactJs)
+![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=Express)
+![Node](https://img.shields.io/badge/-Node-090909?style=for-the-badge&logo=Node.js)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma&logoColor=01db72)
 ![Postgres](https://img.shields.io/badge/-Postgres-090909?style=for-the-badge&logo=PostgreSQL&logoColor=2c5d8a)
 ![HTML](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=html)

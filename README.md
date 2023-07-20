@@ -2,6 +2,8 @@
 
 ## I'am a beginner front-end developer and an experienced web-designer
 
+My journey began with studying at the university in the direction of "Information systems and technologies in business". From the second year I became interested in web development and delved into the study of HTML, CSS and JS. To this day, I am continuously learning new technologies, studying React and creating beautiful and user-friendly user interfaces for freelance clients
+
 ## Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=REACT&logoColor=ReactJs)

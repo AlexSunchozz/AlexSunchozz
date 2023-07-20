@@ -1,8 +1,8 @@
 ![Header](https://github.com/AlexSunchozz/AlexSunchozz/blob/a697309d40bb1a3bccbe6353f34544aa72fb6b26/assets/Frame%2011.png)
 
-## I'am a beginner front-end developer and an experienced web-designer
+## Hi! My name is Alexander, and I am a frontend developer with a great passion for creating amazing and intuitive user interfaces.
 
-Hi! My name is Alexander, and I am a frontend developer with a great passion for creating amazing and intuitive user interfaces. I believe that design and functionality should go hand in hand, and therefore I always strive to create products that are not only beautiful, but also continuously improve the user experience.
+I believe that design and functionality should go hand in hand, and therefore I always strive to create products that are not only beautiful, but also continuously improve the user experience.
 
 ___
 

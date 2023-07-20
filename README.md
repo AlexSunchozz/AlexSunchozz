@@ -4,7 +4,11 @@
 
 Hi! My name is Alexander, and I am a frontend developer with a great passion for creating amazing and intuitive user interfaces. I believe that design and functionality should go hand in hand, and therefore I always strive to create products that are not only beautiful, but also continuously improve the user experience.
 
+____
+
 My journey began with studying at the university in the direction of "Information systems and technologies in business". From the second year I became interested in web development and delved into the study of HTML, CSS and JS. To this day, I am constantly mastering new technologies, studying React and creating beautiful and convenient user interfaces for freelance clients.
+
+___
 
 I appreciate cooperation and teamwork, and am always ready to contribute and learn something new. In addition to development, I am also interested in current trends in user experience and design, so I always try to keep up to date with the latest news and technology.
 

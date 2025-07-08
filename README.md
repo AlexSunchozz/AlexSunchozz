@@ -1,16 +1,31 @@
-![Header](https://github.com/AlexSunchozz/AlexSunchozz/blob/a697309d40bb1a3bccbe6353f34544aa72fb6b26/assets/Frame%2011.png)
+## Привет! Я Александр 👋
 
-## Hi! My name is Alexander
+Я фронтенд‑разработчик с дизайнерским мышлением и опытом в создании UI‑решений под ключ.  
+Пишу на **JavaScript / TypeScript**, работаю с **React**, **Next.js**, **Node.js**, **Tilda**.  
+Создаю адаптивные интерфейсы, кастомные модули, анимации и UX‑ориентированные компоненты.
 
-And I am a frontend developer with a great passion for creating amazing and intuitive user interfaces. I believe that design and functionality should go hand in hand, and therefore I always strive to create products that are not only beautiful, but also continuously improve the user experience.
+💼 **Руководящий опыт:**  
+Выступал в роли **Scrum-мастера** и ведущего верстальщика:  
+— планировал спринты, распределял задачи, контролировал сроки  
+— взаимодействовал с клиентами и координировал работу дизайнеров  
+— участвовал в UX-аналитике и реализации проектных решений  
+Готов развиваться в сторону **техлидства и построения фронтенд-архитектуры**.
 
-___
+🧰 **Стек:**  
+React, Next.js, Express.js, PostgreSQL, Sequelize, HTML/CSS/JS/SCSS, Git, Webpack
 
-My journey began with studying at the university in the direction of "Information systems and technologies in business". From the second year I became interested in web development and delved into the study of HTML, CSS and JS. To this day, I am constantly mastering new technologies, studying React and creating beautiful and convenient user interfaces for freelance clients.
+🎨 **Дизайн и UX:**  
+Figma, дизайн-системы, UI‑киты, кастомизация Tilda, взаимодействие с дизайнерами
 
-___
+🧩 **Подход к работе:**  
+Самостоятельность в решениях, внимание к деталям, кросс‑дисциплинарность, любовь к чистому коду  
+Разрабатываю как интерфейсы, так и сценарии взаимодействия, думаю о пользователе
 
-I appreciate cooperation and teamwork, and am always ready to contribute and learn something new. In addition to development, I am also interested in current trends in user experience and design, so I always try to keep up to date with the latest news and technology.
+📦 **Pet-проекты:**  
+Кастомные слайдеры, калькуляторы, тултипы, анимации, геймификация на Tilda — всё доступно в [репозиториях](https://github.com/AlexSunchozz?tab=repositories)
+
+📎 [Резюме на HH.ru](https://hh.ru/resume/a8da1ec9ff07dab2020039ed1f486b67336b49)
+
 
 ## Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
